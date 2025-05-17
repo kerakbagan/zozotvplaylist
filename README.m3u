@@ -1,6 +1,7 @@
 # zozotvplaylist
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/13.ts
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-FHD
