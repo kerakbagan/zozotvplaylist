@@ -3,65 +3,94 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-HD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/13.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/13.ts
+
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-FHD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/14.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/14.ts
+
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-FHD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/15.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/15.ts
+
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-SD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/16.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/16.ts
+
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-A
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/17.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/17.ts
+
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-FHD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/18.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/18.ts
+
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-C
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/19.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/19.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DMMq0TW/1655552460861.png" group-title="MALAYSIA",Tv6
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/640.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/640.ts
+
 #EXTINF:-1 tvg-id="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="MALAYSIA",NTV7
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/20.ts
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="MALAYSIA",8TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/21.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/20.ts
+
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="MALAYSIA",8TVhttps://link.zozotv.xyz/live/mdfazrin86/ztv728269/21.ts
+
 #EXTINF:-1 tvg-id="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="MALAYSIA",TV9
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/22.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/22.ts
+
 #EXTINF:-1 tvg-id="TV Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA",Okey
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/24.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/24.ts
+
 #EXTINF:-1 tvg-id="Awesome" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/352.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/352.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qyJgMDH/1689595250420.png" group-title="MALAYSIA",SUKE TV
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/924.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/924.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://link.zozotv.xyz/pic/InspirasiZozo.png" group-title="MALAYSIA",Inspirasi
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1910.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/1910.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://link.zozotv.xyz/pic/SalamHdZozo.png" group-title="MALAYSIA",Salam HD
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1911.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/1911.ts
+
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA",Alhijrah
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/26.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/26.ts
+
 #EXTINF:-1 tvg-id="BERNAMA" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="MALAYSIA",Bernama
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/27.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/27.ts
+
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="MALAYSIA",Awani
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/28.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/28.ts
+
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/30.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/30.ts
+
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA", Ria 
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/532.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/532.ts
+
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria-B
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/340.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/340.ts
+
 #EXTINF:-1 tvg-id="premier" tvg-logo="https://i.ibb.co/kKWphz2/1695008017182.png" group-title="MALAYSIA",Premier
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/1703.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/1703.ts
+
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-A
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/33.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/33.ts
+
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-B
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/34.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/34.ts
+
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-A
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/36.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/36.ts
+
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-B
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/37.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/37.ts
+
 #EXTINF:-1 tvg-id="zeecinema" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="MALAYSIA",Aura
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/38.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/38.ts
+
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="MALAYSIA",Rania
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/39.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/39.ts
+
 #EXTINF:-1 tvg-id="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA",TVS
-https://zozotv.xyz:443/live/mdfazrin86/ztv728269/59.ts
+https://link.zozotv.xyz/live/mdfazrin86/ztv728269/59.ts
+
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS",Ceria-A
 https://zozotv.xyz:443/live/mdfazrin86/ztv728269/31.ts
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="KIDS",Ceria-B
